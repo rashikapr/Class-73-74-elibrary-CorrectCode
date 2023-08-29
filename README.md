@@ -1,2 +1,1 @@
-# e-library-v2-PRO-C73
-Solution for PRO-C73
+#Class-73-74(Added search.js) Remove search.js code for Class-73
